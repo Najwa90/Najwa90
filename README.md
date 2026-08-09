@@ -28,7 +28,6 @@ I build machine learning and deep learning solutions across healthcare, NLP, and
 - PhD collaboration and research opportunities
 
 ---
-*Building at the intersection of AI research and real-world impact.*
 
 ## 📫 Connect
 
