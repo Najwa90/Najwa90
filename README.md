@@ -27,6 +27,9 @@ I build machine learning and deep learning solutions across healthcare, NLP, and
 - Freelance data science & automation projects
 - PhD collaboration and research opportunities
 
+---
+*Building at the intersection of AI research and real-world impact.*
+
 ## 📫 Connect
 
 - LinkedIn: www.linkedin.com/in/najwa-alwesabi-3a7195301
